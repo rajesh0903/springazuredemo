@@ -8,6 +8,6 @@ public class Controller {
     @GetMapping("/home")
     public String home()
     {
-        return "welcome to azure cloud first time";
+        return "Hi!! you are getting this message form Azure cloud platform. welcome to azure cloud first time";
     }
 }
